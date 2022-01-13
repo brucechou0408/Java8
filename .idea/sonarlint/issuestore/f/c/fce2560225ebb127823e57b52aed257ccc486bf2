@@ -1,0 +1,15 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(¾ãìˆ
+Q
+java:S1854!";Remove this useless assignment to local variable "result2".(–ŒË‰
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ô€Ã³
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¿ß”€
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(–€éŠ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¦ş³Ê
+S	java:S106="9Replace this use of System.out or System.err by a logger.(æòÁÏùÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(˜Ö“ñüÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Úãçşÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ñô°Á
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
